@@ -1,0 +1,235 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  transition: all 0.3s;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  line-height: 1.6;
+  color: rgb(0, 0, 0);
+  background-color: #fff;
+  text-size-adjust: 100%;
+  -webkit-font-smoothing: auto;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  padding: 0.7rem;
+  height: calc(33.6px + 1.4rem);
+  justify-content: flex-end;
+}
+
+i {
+  font-family: "Material Symbols Outlined";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  cursor: pointer;
+  background-color: #ccc;
+  color: #000;
+  -webkit-font-smoothing: antialiased;
+  padding: 0.3rem;
+  border-radius: 4px;
+}
+
+i:hover {
+  background-color: #aaa;
+}
+
+div.menu-container {
+  position: fixed;
+  display: inline-block;
+}
+
+div.menu-content {
+  display: none;
+  flex-direction: column;
+  position: absolute;
+  background-color: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  z-index: 2;
+  width: 270px;
+  margin-top: 5px;
+  border-radius: 4px;
+  box-shadow: 1px 3px 10px 4px rgba(0, 0, 0, 0.2);
+  right: 0;
+}
+
+div.menu-content span {
+  color: #000;
+  padding: 0.25rem 1rem;
+  font-size: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.2rem;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+div.menu-content span i {
+  background: unset;
+}
+
+section.main-wrapper {
+  width: min(90%, 740px);
+  margin: auto;
+  display: flex;
+  padding: 1rem 1rem 10rem;
+  flex-direction: column;
+}
+
+section.main-wrapper h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  color: rgb(0, 0, 0);
+  padding: 1.25rem 0px 1rem;
+  margin: 0px;
+  font-size: calc(1.1rem + 1.3vw);
+  line-height: 1.2;
+}
+
+section.main-wrapper p {
+  margin: 0.7rem 0;
+}
+
+section.main-wrapper input[type="text"] {
+  padding: 0.7rem;
+  line-height: 1.4;
+  outline: none;
+  border: none;
+  border-radius: 4px;
+  font-size: 1rem;
+  margin-top: 1.5rem;
+  background-color: #eaeaea;
+  color: #000;
+}
+
+section.main-wrapper div.buttons-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  -webkit-box-flex: 1;
+  justify-content: center;
+  flex-grow: 1;
+  -webkit-box-align: stretch;
+  align-items: stretch;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+section.main-wrapper div.buttons-wrapper button {
+  font-size: 1rem;
+  min-width: 300px;
+  flex: 1 1 1 calc(33% - 1rem);
+  padding: 0.5rem;
+  color: #000;
+  outline: none;
+  cursor: pointer;
+  background-color: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+}
+
+section.main-wrapper div.buttons-wrapper button:hover {
+  background: #eee;
+  border-color: #ff5556;
+}
+
+section.main-wrapper section.results {
+  margin-top: 1.5rem;
+  display: none;
+}
+
+section.main-wrapper section.loading {
+  margin-top: 1.5rem;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+}
+
+section.main-wrapper section.results h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  color: rgb(0, 0, 0);
+  padding: 1rem 0px 0.7rem;
+  margin: 0px;
+  font-size: calc(1rem + 1vw);
+  line-height: 1.2;
+}
+
+section.main-wrapper section.results h4 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  color: rgb(0, 0, 0);
+  padding: 1rem 0px 0.7rem;
+  margin: 0px;
+  font-size: calc(1rem + 0.3vw);
+  line-height: 1.2;
+}
+
+section.response {
+  padding: 15px 0;
+  border-bottom: 1px solid rgba(49, 51, 63, 0.2);
+}
+
+section.response:last-child {
+  border: none;
+}
+
+section.response p.res {
+  display: flex;
+  gap: 5px;
+  margin-bottom: 10px;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.6;
+  align-items: flex-start;
+}
+
+section.response p.res span {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.6;
+}
+
+section.response p.res span.bold {
+  font-weight: 600;
+}
+
+section.response p.res span.ans {
+  background: rgb(136, 238, 255);
+  border-radius: 0.33rem;
+  color: rgb(51, 51, 51);
+  padding: 0 0.67rem;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+
+section.response p.res span.ans span.super-ans {
+  font-size: 0.67em;
+  opacity: 0.5;
+  padding-left: 0.5rem;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+section#answers {
+  margin-bottom: 50px;
+}
+
+code {
+  white-space: pre-wrap;
+}

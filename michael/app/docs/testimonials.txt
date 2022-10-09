@@ -1,0 +1,128 @@
+How To Get Testimonials/Reviews For Your WooCommerce Store On Autopilot
+Tavleen Kaur
+March 10, 2019
+How To Get Testimonials/Reviews For Your WooCommerce Store On Autopilot
+Take a minute and think about your buying behavior.
+
+What's the first thing you check after the product title and image on a product page?
+
+If you're like most people- it's the testimonials and reviews.
+
+Testimonials are the voice of the customer. And people see a reflection of themselves in your existing buyers.
+
+For example, as a mom when I look at the marketing copy of this daily gummy vitamins:
+
+
+I am not sure whether these will be right multi-vitamins for my kid even though the product page and the bottle sticker say so! Here are some of my off the cuff doubts:
+
+Are these really safe?
+
+Are these even useful?
+
+What if my kid gets some allergy from these?
+
+But when I read these testimonials:
+
+
+Reviews/testimonials back up the claim made in the marketing copy. Sometimes all you need to know is that the product is legit!
+I am convinced that I will be making the right decision by investing in them. And that they will be safe.
+
+I can see other buyers like me talking about:
+
+Why they chose this product
+
+How it's living up to its claim and if it is
+
+What are the problems it's helping them solve
+
+How satisfied they are with the outcome
+
+The conclusion of this conversation is that no matter how spiffy your marketing copy is, if the testimonials don't back up the claim, it's a waste.
+
+This increases the importance of having a collection of honest and well-documented testimonials.
+
+Our good friend, Chris has done an interesting video on testimonials and how to collect them on autopilot.
+
+Watch now:
+
+
+We've summed up what Chris discusses in this blog post.
+
+First up, let's look at the two types of testimonials.
+
+Two types of testimonials
+Customer testimonials
+When someone buys something from you and shares a word about how product has helped them. This could be just a quick two line testimonial sharing how happy they are. Or a much longer storytelling format.
+
+2. Character testimonials
+
+Ideal for those who've just started out their business and do not have buyers.
+
+If there's someone who can vouch for your character, that's great too.
+
+Get them to say something about you. Let them tell the world that you're a good person with good intentions and you're not scamming people.
+
+One of the ways I used to get character testimonial was to do a really detailed, well-researched guest blog post for someone known in my niche.
+
+And got a flattering character testimonials in return. So reach out and build a relationship.
+
+Influencer testimonials for eCommerce store owners (even if you're just starting out)
+
+If you're selling physical products, of course testimonials vouching for your character will not add value. So a great way to show proof without actually having real customer reviews is to give your products to influencers.
+
+Find out some good influencers in your niche and get them to do an unboxing video or just a quick review while testing your product.
+
+Let these videos be real, raw and authentic. Take a look at an example:
+
+
+Influencer Testimonial for Sweatblock
+These testimonials tell the user that the product works as claimed and it's the real deal. That's all they need to know to take the plunge.
+
+There's actually a third type of testimonial too...
+
+Shout out on social media - This is a great way to show proof that your product works or that you provide an amazing service.
+
+When someone's happy, they may write a quick note on a social media. You can grab a snapshot and put them on your sales page.
+
+Now let's look at how to generate testimonials on autopilot.
+Here's a simple step by step process to generate testimonials on autopilot.
+
+Step #1: Create a simple automation in your email autoresponder software
+
+You may be using MailChimp/Active Campaign/Drip, whichever it is - you can set up a real quick automation asking them for the testimonial.
+
+Step #2: Set the trigger to 'purchased product X'
+
+Set the starting trigger to a new purchase. And let WooCommerce communicate with your email service provider so that this new contact get the purchase tag.
+
+Step #3: After a set number of days send them a short & friendly email
+
+Copy this email template:
+
+Subject Line: Can I ask you a quick question? / How's it going
+
+Body: Hey there,
+
+You bought from us about a month ago. I am just curious to know how you experience has been?
+
+Hit reply and let me know.
+
+Thanks
+
+This email is just to get them to raise their hand. You can then follow up with them to do a video testimonial or a case study - whatever you like.
+
+Step #4: If needed, set a gentle reminder
+
+You'll have testimonials pouring in.
+
+Do This Next...
+Once you have got some good testimonials, please go ahead and put them at the right places.
+
+
+Checkout page is a great place to show proofbecause that's where people are grappling with maximum doubts. And they are closest to parting with their money.
+
+If you're starting out, do not forget the character testimonial method. But if you're doing a few sales, then do create a small automation to collect testimonials on autopilot.
+
+It's a small automation but the advantage is huge. And don't forget people do want to give reviews- we all have an innate desire to share our experiences, whether good or bad.
+
+Your on-time emails will act as a great push to get them to take action. So take the formulas and run with them. More power to you!

@@ -1,0 +1,39 @@
+Campaign #1 Targeted
+
+Test 10 audiences at same time for $5 per ad group. Find out how much you are willing to spend to get  customer . If it's $15 then run each adgroup for $15 total. Once it hits that and it' s not profitable turn it off.
+
+Let facebook figure who to target. Do simple ads with the people you want to target. Totally obvious copy. Facebook will show it to people you have in copy. Do super simple image. It's cheaper.
+
+We are just buying data to see what audiences work.
+
+Plus keep your ad budget low because facebook works harder.
+
+Campaign #2 Super Broad
+
+Everyone in the US age 28-57
+Everyone in Canada and US age 28-57
+Everyone in US and Canada
+Everyone in Uk
+If you ship in europe too "Do US, Europe, Canada above age of 28
+or you could do all people into health very general
+
+Facebook is very smart and will find the right person who is buying. Generally it's cheaper. The less targeting you put on an ad and restrictions the cheaper it is.
+
+
+Run both of these campaigns at same time You will see what works. Many time super broad will get you customers for cheaper. Sometimes going broad will work very well out of the gate without any targeting so that's why you go broad. You run same ad.
+
+But maybe be good just to target people who are into health and natural health because those people will buy more of your stuff. But facebook might target people like this anyway if you go super broad.
+
+You want to turn off audiences that are not meeting your CPA. Then scale the ones that do.  Don't focus on campaign as a whole in the beginning. Focus on the audiences. We are just buying data. We are just finding audiences that buy your stuff right now. Run it over 3 or more days, don't base it on one day. Some days will be up and down.  Look at the profitable over a period of 7 days.
+
+Also you need good tracking like hyros and that other one he mentioned in ads madness. You need to feed it good data.  My just optimizing for woofunnels sales probably works just as well while add the /offer/ contain for url.
+
+use these two to track properly https://anytrack.io/ or thought metric designed for ecommerce and even measure email etc. But anytrack.io seems to do all that except email (maybe) but allows you to track clickbank sales and add it to your analytics (if it adds to your full busienss analytics to give you LTV that would be amazing.
+
+Add the tracking code cloudflare so it's server side only. Then stop using woofunnels delete it then you will have all your tracking server side with cloudflare. So site will be faster. get free trail of both. Frank uses anytrack.
+
+Optimize for purchase, do automatic placements (Fb will figure it out for you), set daily budget $5
+
+
+
+My idea: By testing 10 audiences at 5 dollars for a few days (until you hit the most you will spend for a sale for example $15 then run for 3 days.. Then you will see which audiences work. Then scale those and retest new audiences and scale those until you are getting at least 20 sales a day enough for AI to learn. Once that happens create another campaign to go super broad 30-55 men and women in U.S optimizing for purchases or conversion goal.  Then once you get distribution expand to Canada and target U.S and Canada. Then eventually use ship bob to scale to Europe and target U.S, Canada, and europe.

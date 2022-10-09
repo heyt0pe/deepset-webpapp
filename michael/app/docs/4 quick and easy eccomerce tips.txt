@@ -1,0 +1,28 @@
+4 ways to optimize checkout page and increase checkout conversion rate:
+
+
+start backwards. work on your checkout first, then product page, then home. the only reason they don't buy is they don't trust you or didn't get their questions answered.
+
+1.) The less fields the higher the conversion rate.
+
+2.) Explain why you need their email and phone number. Because it will increase checkout conversion rate. Studies show when you say why you need something they are much more likely to get it.
+
+For phone number say for shipping updates.  Then you can add sms to your cart abandonment rate.  Since you told them this it's okay to send sms for cart abandonments only. add sms to cart abandonment. double check this you may still need to request to optin. To be safe only send to people who optined in on order bump. just call the others.
+
+3.) Add phone number and email to checkout. In shopify you can add it in photoshop or canva. when they see this it increase trust. Your call will not go up.
+
+4.) If you use paypal. Don't put it at the top express checkout instead put the paypal logo and credit cards underneath button. Then they will see you accept payment and be more likley to feel out form for next step. When you add paypal express checkout to top. if they abandoned you won't have any info to follow up with them.
+
+
+extra notes:
+
+use google tag manager for scrolling. People don't like to scroll.  use scroll maps and see where you conversion rate is at at certain percents you scroll. then go my conversion rate is really good at 75% down the page. Let's go see what information we are giving at 75% and see how to get it above the fold.  This will give you higher conversion rate.
+
+
+Use add to cart on CTA button instead of order now. It will increase sells.  Add reviews to checkout page. and on checkout page add "Proceed to Checkout" with arrow to the right. It will boost conversion.   People won't click on a button that they don't know where it will take them.
+
+Don't show all 5 star reviews. Show negative reviews with your answer.  Showing just one great review works better than 2 or 3. 
+
+Add photos of people with the bag in testimonial. With reviews make the stars the same color as amazons. You can leverage their trust.
+
+Go through their course and coaching https://buildgrowscale.com/
